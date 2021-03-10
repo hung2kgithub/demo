@@ -1,4 +1,5 @@
-[
+{
+  "forecast": [
   {
     "datetime": "2021-03-06T23:00:00+00:00",
     "temperature": 21.6,
@@ -29,4 +30,5 @@
     "templow": 18.1,
     "condition": "partlycloudy"
   }
-]
+ ]
+}
