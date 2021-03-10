@@ -1,14 +1,32 @@
-{
-  "posts": [
-    { "id": 1, "title": "Post 1" },
-    { "id": 2, "title": "Post 2" },
-    { "id": 3, "title": "Post 3" }
-  ],
-  "comments": [
-    { "id": 1, "body": "some comment", "postId": 1 },
-    { "id": 2, "body": "some comment", "postId": 1 }
-  ],
-  "profile": {
-    "name": "typicode"
+[
+  {
+    "datetime": "2021-03-06T23:00:00+00:00",
+    "temperature": 21.6,
+    "templow": 17.2,
+    "condition": "cloudy"
+  },
+  {
+    "datetime": "2021-03-07T23:00:00+00:00",
+    "temperature": 22.1,
+    "templow": 17.4,
+    "condition": "partlycloudy"
+  },
+  {
+    "datetime": "2021-03-08T23:00:00+00:00",
+    "temperature": 22.6,
+    "templow": 18.1,
+    "condition": "partlycloudy"
+  },
+  {
+    "datetime": "2021-03-09T23:00:00+00:00",
+    "temperature": 22.3,
+    "templow": 17.8,
+    "condition": "partlycloudy"
+  },
+  {
+    "datetime": "2021-03-10T23:00:00+00:00",
+    "temperature": 24.1,
+    "templow": 18.1,
+    "condition": "partlycloudy"
   }
-}
+]
